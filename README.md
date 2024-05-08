@@ -10,3 +10,4 @@
 - How to reach me
   - [Linkedin](https://www.linkedin.com/in/codevilot/)
   - [Instagram](https://www.instagram.com/heon.th/)
+  - [Tistory](https://codevil.tistory.com/)
